@@ -12,10 +12,14 @@ A Flutter application that demonstrates image conversion from PNG to WebP format
 
 ## Screenshots
 
-The app shows:
-- Original PNG image on the left
-- Converted/simulated WebP image on the right
-- Size comparison and reduction statistics
+![App Screenshot](https://github.com/yourusername/image_webp_converter/raw/main/screenshots/Screenshot_1.png)
+
+The screenshot above shows the main interface of the app with:
+- Clean, modern UI with a purple theme
+- "Simulate PNG to WebP Conversion" button at the top
+- Side-by-side comparison of images (Original PNG on left, WebP on right)
+- Size statistics at the bottom showing the original size, converted size, and percentage reduction
+- In this example, a 60% file size reduction is achieved (1700.24 KB → 680.10 KB)
 
 ## How It Works
 
