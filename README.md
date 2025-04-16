@@ -12,7 +12,7 @@ A Flutter application that demonstrates image conversion from PNG to WebP format
 
 ## Screenshots
 
-![App Screenshot](https://github.com/yourusername/image_webp_converter/raw/main/screenshots/screenshot_1.png)
+![App Screenshot](https://github.com/jadhavrupesh/image_webp_converter/raw/main/screenshots/screenshot_1.png)
 
 The screenshot above shows the main interface of the app with:
 - Clean, modern UI with a purple theme
